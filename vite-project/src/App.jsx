@@ -2,7 +2,7 @@ import React from 'react'
 import Counter from './components/Counter'
 const App = () => {
   return (
-    <div>
+    <div className='bg-slate-400 '>
       <Counter />
     </div>
   )
